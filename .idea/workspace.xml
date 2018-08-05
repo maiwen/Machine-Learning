@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/logistic_regression/logistic_regression.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logistic_regression/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Introductions/Introductions.md" afterPath="$PROJECT_DIR$/Introductions/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +13,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Introductions.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introductions/Introductions.md">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Introductions/readme.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
@@ -147,7 +144,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Introductions/Introductions.md">
+    <entry file="file://$PROJECT_DIR$/Introductions/readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
