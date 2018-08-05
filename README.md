@@ -1,3 +1,3 @@
 # Machine-Learning-Algorithms
-![](https://github.com/maiwen/Machine-Learning/blob/master/img/ml.png)
+![](img/openai.png)
 
