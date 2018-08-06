@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/Adam.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/RMSprop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/adagrad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/momentum.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/momentumball.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Introductions/readme.md" afterPath="$PROJECT_DIR$/Introductions/readme.md" />
+      <change beforePath="$PROJECT_DIR$/optimizers/readme.md" afterPath="$PROJECT_DIR$/optimizers/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Introductions/readme.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="728">
               <caret line="93" column="123" lean-forward="false" selection-start-line="93" selection-start-column="123" selection-end-line="93" selection-end-column="123" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Optimizers/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="796">
+              <caret line="39" column="124" lean-forward="false" selection-start-line="39" selection-start-column="124" selection-end-line="39" selection-end-column="124" />
               <folding />
             </state>
           </provider>
@@ -36,6 +51,7 @@
         <option value="$PROJECT_DIR$/Introductions/Introductions.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Introductions/readme.md" />
+        <option value="$PROJECT_DIR$/Optimizers/readme.md" />
       </list>
     </option>
   </component>
@@ -75,7 +91,17 @@
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="Introductions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Optimizers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,6 +113,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,6 +197,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="728">
           <caret line="93" column="123" lean-forward="false" selection-start-line="93" selection-start-column="123" selection-end-line="93" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Optimizers/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="39" column="124" lean-forward="false" selection-start-line="39" selection-start-column="124" selection-end-line="39" selection-end-column="124" />
           <folding />
         </state>
       </provider>
