@@ -7,7 +7,7 @@
 输出y∊Y表示实例的类别。由输入空间到输出空间的如下函数
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
-![](http://latex.codecogs.com/gif.latex?\\f(x) = sign(w\cdot x+b))
+![](http://latex.codecogs.com/gif.latex?\\ax^{2} + by^{2} + c = 0)
 
 ![](http://latex.codecogs.com/gif.latex?\\sign(x) = \left\{\begin{matrix}+1, x\geq 0
  & \\ -1, x< 0
