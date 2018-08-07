@@ -1,3 +1,3 @@
-# Machine-Learning-Algorithms
+# 机器学习
 ![](img/openai.png)
 
