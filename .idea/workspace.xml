@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bysgj.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/hyglzdh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/nbys1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/nbysm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/psbysex1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/psbyssf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Decision Tree/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Decision Tree/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/jcsmx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/jcssc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/jcssshs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/jnzs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/jzsf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzyb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzysf.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/KNN/readme.md" afterPath="$PROJECT_DIR$/KNN/readme.md" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,12 +21,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Naive Bayes/README.md">
+        <entry file="file://$PROJECT_DIR$/Decision Tree/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="484">
+              <caret line="92" column="23" lean-forward="true" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -56,6 +55,7 @@
         <option value="$PROJECT_DIR$/KNN/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Naive Bayes/README.md" />
+        <option value="$PROJECT_DIR$/Decision Tree/README.md" />
       </list>
     </option>
   </component>
@@ -83,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,18 +94,17 @@
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Decision Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Naive Bayes" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -114,12 +114,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Naive Bayes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Decision Tree" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Naive Bayes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -185,7 +186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
           <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -193,7 +193,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -243,7 +242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -251,14 +249,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Naive Bayes/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
-          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decision Tree/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="92" column="23" lean-forward="true" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
           <folding />
         </state>
       </provider>
