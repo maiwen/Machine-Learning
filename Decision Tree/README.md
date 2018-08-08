@@ -25,11 +25,15 @@
 
 ### 决策树学习
 
-**决策树学习本质上是从训练数据集中归纳出一组分类规则。**我们需要的是一个与训练数据矛盾较小的决策树，同时具有很好的泛化能力。
+**决策树学习本质上是从训练数据集中归纳出一组分类规则。**
+
+我们需要的是一个与训练数据矛盾较小的决策树，同时具有很好的泛化能力。
 决策树学习的损失函数通常是正则化的极大似然函数。
 当损失函数确定以后，学习问题就变为在损失函数意义下选择最优决策树的问题。
+
 因为从所有可能的决策树中选取最优决策树是NP完全问题，所以现实中决策树学习算法通常采用启发式方法，近似求解这一最优化问题。
 这样得到的决策树是**次最优**（sub-optimal）的。
+
 决策树学习的算法通常是一个递归地选择最优特征，并根据该特征对训练数据进行分割，使得对各个子数据集有一个最好的分类的过程。
 这一过程对应着对特征空间的划分，也对应着决策树的构建。
 开始，构建根结点，将所有训练数据都放在根结点。
@@ -58,21 +62,27 @@
 ### 熵
 熵（entropy）是表示随机变量不确定性的度量。
 设X是一个取有限个值的离散随机变量，其概率分布为
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=P(X&space;=&space;x_{i})&space;=&space;p_{i},&space;i=1,2,...,n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(X&space;=&space;x_{i})&space;=&space;p_{i},&space;i=1,2,...,n" title="P(X = x_{i}) = p_{i}, i=1,2,...,n" /></a>
+
 则随机变量X的熵定义为
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=H(X)=-\sum_i{p_{i}&space;logp_{i}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?H(X)=-\sum_i{p_{i}&space;logp_{i}}" title="H(X)=-\sum_i{p_{i} logp_{i}}" /></a>
 
 **熵只依赖于X的分布**
 
 条件熵H(Y|X)表示在已知随机变量X的条件下随机变量Y的不确定性。
 随机变量X给定的条件下随机变量Y的条件熵（conditional entropy）H(Y|X)，定义为X给定条件下Y的条件概率分布的熵对X的数学期望
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=H(Y|X)=-\sum_i{p_{i}&space;H(Y|X=x_{i})}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?H(Y|X)=-\sum_i{p_{i}&space;H(Y|X=x_{i})}" title="H(Y|X)=-\sum_i{p_{i} H(Y|X=x_{i})}" /></a>
+
 这里，pi＝P(X＝xi)，i＝1,2,…,n。
 当熵和条件熵中的概率由数据估计（特别是极大似然估计）得到时，所对应的熵与条件熵分别称为经验熵（empirical entropy）和经验条件熵（empirical conditional entropy）。
 
 ### 信息增益(互信息)
 信息增益（information gain）表示得知特征X的信息而使得类Y的信息的不确定性减少的程度。
 特征A对训练数据集D的信息增益g(D,A)，定义为集合D的经验熵H(D)与特征A给定条件下D的经验条件熵H(D|A)之差，即
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=g(D,A)=H(D)-H(D|A)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(D,A)=H(D)-H(D|A)" title="g(D,A)=H(D)-H(D|A)" /></a>
 
 根据信息增益准则的**特征选择方法**是：对训练数据集（或子集）D，计算其每个特征的信息增益，并比较它们的大小，选择信息增益最大的特征。

@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Decision Tree/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Decision Tree/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jcsmx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jcssc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jcssshs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jnzs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jzsf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzyb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzysf.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Decision Tree/README.md" afterPath="$PROJECT_DIR$/Decision Tree/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +16,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Decision Tree/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="92" column="23" lean-forward="true" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+            <state relative-caret-position="700">
+              <caret line="85" column="31" lean-forward="false" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -262,8 +253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Decision Tree/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="92" column="23" lean-forward="true" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        <state relative-caret-position="700">
+          <caret line="85" column="31" lean-forward="false" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
           <folding />
         </state>
       </provider>
