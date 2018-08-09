@@ -1,6 +1,6 @@
 # 逻辑回归
 
-## 1. 逻辑分布
+## 逻辑分布
 设X是连续随机变量，X服从逻辑斯谛分布是指X具有下列分布函数：
 <a href="https://www.codecogs.com/eqnedit.php?latex=F(x)=P(X\leq&space;x)=\frac{1}{1&plus;e^{-(x-\mu&space;)/\gamma&space;}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F(x)=P(X\leq&space;x)=\frac{1}{1&plus;e^{-(x-\mu&space;)/\gamma&space;}}" title="F(x)=P(X\leq x)=\frac{1}{1+e^{-(x-\mu )/\gamma }}" /></a>
 式中，u为位置参数，r>0为形状参数。曲线在中心附近增长速度较快，在两端增长速度较慢。形状参数的值越小，曲线在中心附近增长得越快。
