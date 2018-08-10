@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/tssex1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/tssex2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/tssex3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Support Vector Machines/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Support Vector Machines/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/hsjg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/jhjg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/qzdjg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxkf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxkfsf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/zcxl.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Boosting Tree/README.md" afterPath="$PROJECT_DIR$/Boosting Tree/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,30 +21,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Logistic Regression/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Boosting Tree/README.md">
+        <entry file="file://$PROJECT_DIR$/Support Vector Machines/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="58" column="48" lean-forward="true" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+            <state relative-caret-position="876">
+              <caret line="67" column="69" lean-forward="true" selection-start-line="67" selection-start-column="69" selection-end-line="67" selection-end-column="69" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tss2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/tss2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -71,12 +58,13 @@
         <option value="$PROJECT_DIR$/Logistic Regression/logistic_regression.py" />
         <option value="$PROJECT_DIR$/Logistic Regression/readme.md" />
         <option value="$PROJECT_DIR$/Boosting Tree/README.md" />
+        <option value="$PROJECT_DIR$/Support Vector Machines/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1651" />
-    <option name="y" value="244" />
+    <option name="x" value="2236" />
+    <option name="y" value="76" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -109,12 +97,7 @@
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Boosting Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Support Vector Machines" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,6 +116,7 @@
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Support Vector Machines" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Boosting Tree" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Decision Tree" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
@@ -240,6 +224,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -273,6 +258,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -311,14 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Logistic Regression/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/tss2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -328,6 +306,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="58" column="48" lean-forward="true" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistic Regression/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Support Vector Machines/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="876">
+          <caret line="67" column="69" lean-forward="true" selection-start-line="67" selection-start-column="69" selection-end-line="67" selection-end-column="69" />
           <folding />
         </state>
       </provider>
