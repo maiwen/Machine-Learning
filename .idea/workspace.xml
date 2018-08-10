@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/cyhhs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/fxx1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/fxx2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/hhs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/hjq.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/zdh.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Support Vector Machines/README.md" afterPath="$PROJECT_DIR$/Support Vector Machines/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +16,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Support Vector Machines/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4428">
-              <caret line="164" column="52" lean-forward="true" selection-start-line="164" selection-start-column="52" selection-end-line="164" selection-end-column="52" />
+            <state relative-caret-position="378">
+              <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -333,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Support Vector Machines/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4428">
-          <caret line="164" column="52" lean-forward="true" selection-start-line="164" selection-start-column="52" selection-end-line="164" selection-end-column="52" />
+        <state relative-caret-position="378">
+          <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
           <folding />
         </state>
       </provider>
