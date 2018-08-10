@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/duiou1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/duiou2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/duiou3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/duiou4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/hinge.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/hingep.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzcxlj1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzcxlj2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzcxlj3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzcxlj4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzcxlj5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxzcxlj6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/zcxljex.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/cyhhs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/fxx1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/fxx2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/hhs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/hjq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/zdh.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Support Vector Machines/README.md" afterPath="$PROJECT_DIR$/Support Vector Machines/README.md" />
     </list>
@@ -30,8 +23,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Support Vector Machines/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="114" column="7" lean-forward="false" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
+            <state relative-caret-position="4428">
+              <caret line="164" column="52" lean-forward="true" selection-start-line="164" selection-start-column="52" selection-end-line="164" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -69,8 +62,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1997" />
-    <option name="y" value="95" />
+    <option name="x" value="2017" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -341,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Support Vector Machines/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="114" column="7" lean-forward="false" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
+        <state relative-caret-position="4428">
+          <caret line="164" column="52" lean-forward="true" selection-start-line="164" selection-start-column="52" selection-end-line="164" selection-end-column="52" />
           <folding />
         </state>
       </provider>
