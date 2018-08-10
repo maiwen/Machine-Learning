@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Support Vector Machines/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Support Vector Machines/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/hsjg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/jhjg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/qzdjg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxkf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/xxkfsf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/zcxl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/lglrczf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/lglrczf2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/lglrczf3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/lglrczf4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/lglrczf5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/lglrczf6.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Support Vector Machines/README.md" afterPath="$PROJECT_DIR$/Support Vector Machines/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +23,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Support Vector Machines/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="876">
-              <caret line="67" column="69" lean-forward="true" selection-start-line="67" selection-start-column="69" selection-end-line="67" selection-end-column="69" />
+            <state relative-caret-position="552">
+              <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -320,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Support Vector Machines/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="876">
-          <caret line="67" column="69" lean-forward="true" selection-start-line="67" selection-start-column="69" selection-end-line="67" selection-end-column="69" />
+        <state relative-caret-position="552">
+          <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
           <folding />
         </state>
       </provider>
