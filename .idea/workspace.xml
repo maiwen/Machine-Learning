@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/DNN/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/DNN/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/dl1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/dl2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/dl3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/dl4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/tsdl.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/10. Deep Learning/DNN/README.md" afterPath="$PROJECT_DIR$/10. Deep Learning/DNN/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +16,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/10. Deep Learning/DNN/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <state relative-caret-position="135">
+              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -59,6 +52,7 @@
         <option value="$PROJECT_DIR$/Boosting Tree/README.md" />
         <option value="$PROJECT_DIR$/Support Vector Machines/README.md" />
         <option value="$PROJECT_DIR$/10. Deep Learning/README.md" />
+        <option value="$PROJECT_DIR$/10. Deep Learning/DNN/README.md" />
       </list>
     </option>
   </component>
@@ -96,12 +90,6 @@
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="10. Deep Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="10. Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="DNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10. Deep Learning/DNN/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        <state relative-caret-position="135">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding />
         </state>
       </provider>
