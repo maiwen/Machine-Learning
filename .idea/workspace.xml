@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/Backpropagation/Backpropagation.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/Backpropagation/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/dl5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/dl6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/dl7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/dl8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/CNN/CNN.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/CNN/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/RNN/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/RNN/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/RNN/rnngs1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/RNN/rnngs2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/rnn1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/rnn2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/rnn3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/rnn4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/rnn5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/rnn6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/rnn7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/rnn8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/sdsy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/img/tdjd.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/10. Deep Learning/Backpropagation/Backpropagation.pdf" afterPath="$PROJECT_DIR$/10. Deep Learning/BP/Backpropagation.pdf" />
+      <change beforePath="$PROJECT_DIR$/10. Deep Learning/Backpropagation/__init__.py" afterPath="$PROJECT_DIR$/10. Deep Learning/BP/__init__.py" />
       <change beforePath="$PROJECT_DIR$/10. Deep Learning/DNN/README.md" afterPath="$PROJECT_DIR$/10. Deep Learning/DNN/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,13 +32,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10. Deep Learning/DNN/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="876">
-              <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            <state relative-caret-position="27">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10. Deep Learning/RNN/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rnn2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/rnn2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rnn3.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/rnn3.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rnn1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/rnn1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsdl.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/tsdl.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rnn4.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/rnn4.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -60,6 +117,7 @@
         <option value="$PROJECT_DIR$/Support Vector Machines/README.md" />
         <option value="$PROJECT_DIR$/10. Deep Learning/README.md" />
         <option value="$PROJECT_DIR$/10. Deep Learning/DNN/README.md" />
+        <option value="$PROJECT_DIR$/10. Deep Learning/RNN/README.md" />
       </list>
     </option>
   </component>
@@ -102,7 +160,13 @@
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="10. Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="DNN" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="10. Deep Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="RNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,14 +183,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\RNN" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\Backpropagation" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Support Vector Machines" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Boosting Tree" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\Decision Tree" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\img" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\RNN" />
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\CNN" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\DNN" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
     </key>
@@ -358,11 +424,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/tsdl.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/dl4.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -370,8 +431,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10. Deep Learning/DNN/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="876">
-          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/rnn4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/rnn3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/tsdl.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/rnn1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Deep Learning/img/rnn2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Deep Learning/RNN/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>
