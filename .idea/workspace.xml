@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/10. Deep Learning/README.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +36,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            <state relative-caret-position="162">
+              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -335,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="162">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
           <folding />
         </state>
       </provider>
