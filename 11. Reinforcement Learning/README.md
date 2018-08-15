@@ -1,6 +1,6 @@
 # 强化学习
 
-![](img/openai.png)
+![](../img/openai.png)
 
 ## References
 * [统计学习方法](https://item.jd.com/12385906.html)
