@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/2. Value function method/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/2. Value function method/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/3. Policy gradient method/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md">
+        <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/2. Value function method/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            <state relative-caret-position="324">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -57,13 +60,15 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/11. Reinforcement Learning/Basics.py" />
         <option value="$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md" />
+        <option value="$PROJECT_DIR$/11. Reinforcement Learning/2. Value function method/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2017" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,6 +115,18 @@
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="11. Reinforcement Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="1. Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="11. Reinforcement Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="2. Value function method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="11. Reinforcement Learning" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -134,11 +151,11 @@
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\RNN" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\2. Value function method" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\1. Basics" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\Engineering Practice" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\RNN" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\Backpropagation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -170,7 +187,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -200,14 +217,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10. Deep Learning/6. Engineering Practice/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4158">
@@ -235,6 +244,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -265,6 +275,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -375,6 +386,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -409,8 +421,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        <state relative-caret-position="162">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/img/optpol.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/img/dzjz.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/2. Value function method/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding />
         </state>
       </provider>
