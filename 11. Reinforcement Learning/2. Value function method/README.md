@@ -116,7 +116,7 @@
 ![](https://github.com/maiwen/Deep-Reinforcement-Learning/blob/master/DQN/img/Human-level%20control%20through%20deep%20reinforcement%20learning.png)
 
 DQN对Q-learning的修改主要体现在以下三个方面：
-* ### 3.1 DQN利用深度卷积神经网络逼近值函数
+### 3.1 DQN利用深度卷积神经网络逼近值函数
 
 ![](https://github.com/maiwen/Deep-Reinforcement-Learning/blob/master/DQN/img/Human-level%20control%20through%20deep%20reinforcement%20learning%20(1).png)
 
@@ -131,7 +131,7 @@ DQN对Q-learning的修改主要体现在以下三个方面：
 现在我们就可以回答，DeepMind到底做了什么？
 
 他们将认识神经科学的成果应用到了深度神经网络的训练之中！
-* ### 3.2 DQN利用了经验回放对强化学习的学习过程进行训练
+### 3.2 DQN利用了经验回放对强化学习的学习过程进行训练
 
 人在睡觉的时候，海马体会把一天的记忆重放给大脑皮层。利用这个启发机制，DeepMind团队的研究人员构造了一种神经网络的训练方法：经验回放。
 
@@ -144,7 +144,7 @@ DQN对Q-learning的修改主要体现在以下三个方面：
 如图，在强化学习过程中，智能体将数据存储到一个数据库中，然后利用均匀随机采样的方法从数据库中抽取数据，然后利用抽取的数据对神经网络进行训练。
 
 这种经验回放的技巧可以**打破数据之间的关联性**，该技巧在2013年的NIPS已经发布了。2015年的nature论文进一步提出了目标网络的概念进一步地减小数据间的关联性。
-* ### 3.3 DQN独立设置了目标网络来单独处理时间差分算法中的TD偏差。
+### 3.3 DQN独立设置了目标网络来单独处理时间差分算法中的TD偏差。
 
 与表格型的Q-learning算法所不同的是，利用神经网络对值函数进行逼近时，值函数的更新步更新的是参数θ，更新方法是梯度下降法。因此图1.1中第6行值函数更新实际上变成了监督学习的一次更新过程，其梯度下降法为：
 ![](https://www.zhihu.com/equation?tex=%5C%5B%0A%5Ctheta_%7Bt%2B1%7D%3D%5Ctheta_t%2B%5Calpha%5Cleft%5Br%2B%5Cgamma%5Cmax_%7Ba%27%7DQ%5Cleft%28s%27%2Ca%27%3B%5Ctheta%5Cright%29-Q%5Cleft%28s%2Ca%3B%5Ctheta%5Cright%29%5Cright%5D%5Cnabla+Q%5Cleft%28s%2Ca%3B%5Ctheta%5Cright%29%0A%5C%5D)
