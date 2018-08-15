@@ -106,12 +106,21 @@ TRPO是英文单词Trust region policy optimization的简称，翻译成中文�
 ![](../img/trpo7.png)
 
 ### 2.3 利用平均KL散度代替最大KL散度
+
 ![](https://www.zhihu.com/equation?tex=+subject%5C+to%7E%7E%7E%5Cbar%7BD%7D_%7BKL%7D%5E%7B%5Crho_%7B%5Ctheta_%7Bold%7D%7D%7D%5Cleft%28%5Ctheta_%7Bold%7D%2C%5Ctheta%5Cright%29%5Cle%5Cdelta+)
 
 ### 2.4
 ![](../img/trpo8.png)
 ![](../img/klsd.png)
 
+### 2.5 PPO
+PPO算法来源于TRPO算法,TRPO的标准解法是将目标函数进行一阶近似，约束条件利用泰勒进行二阶展开，然后利用共轭梯度的方法求解最优的更新参数。
+
+然而当策略选用深层神经网络表示时，TRPO的标准解法计算量会非常大。因为共轭梯度法需要将约束条件进行二阶展开，二阶矩阵的计算量非常大。
+
+PPO将TRPO的目标函数进行一定的变换，并使用梯度下降法进行求解，降低实现难度，提升求解效率，论文提供了3种目标函数。
+![](https://github.com/maiwen/Deep-Reinforcement-Learning/raw/master/PPO/img/ppo.png)
+![](https://github.com/maiwen/Deep-Reinforcement-Learning/raw/master/PPO/img/clipping.png)
 
 
 
