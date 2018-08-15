@@ -40,11 +40,13 @@
 ### 状态值函数和行为值函数的具体计算过程
 ![](https://www.zhihu.com/equation?tex=%5C%5B+%5Cupsilon_%7B%5Cpi%7D%5Cleft%28s%5Cright%29%3D%5Csum_%7Ba%5Cin+A%7D%7B%5Cpi%5Cleft%28a%7Cs%5Cright%29q_%7B%5Cpi%7D%5Cleft%28s%2Ca%5Cright%29%7D%5C%5C%5C%5C%5Cleft%281.7%5Cright%29+%5C%5D)
 ![](https://www.zhihu.com/equation?tex=%5C%5B+q_%7B%5Cpi%7D%5Cleft%28s%2Ca%5Cright%29%3DR_%7Bs%7D%5E%7Ba%7D%2B%5Cgamma%5Csum_%7Bs%27%7D%7BP_%7Bss%27%7D%5E%7Ba%7D%7D%5Cupsilon_%7B%5Cpi%7D%5Cleft%28s%27%5Cright%29%5C%5C%5C%5C%5Cleft%281.8%5Cright%29+%5C%5D)
+
 将(1.8)式带入到(1.7)式可以得到：
 
 ![](https://www.zhihu.com/equation?tex=%5C%5B+%5Cupsilon_%7B%5Cpi%7D%5Cleft%28s%5Cright%29%3D%5Csum_%7Ba%5Cin+A%7D%7B%5Cpi%5Cleft%28a%7Cs%5Cright%29%5Cleft%28R_%7Bs%7D%5E%7Ba%7D%2B%5Cgamma%5Csum_%7Bs%27%5Cin+S%7D%7BP_%7Bss%27%7D%5E%7Ba%7D%5Cupsilon_%7B%5Cpi%7D%5Cleft%28s%27%5Cright%29%7D%5Cright%29%7D%5C%5C%5C%5C%5Cleft%281.9%5Cright%29+%5C%5D)
 
 ![](https://www.zhihu.com/equation?tex=%5C%5B+%5Cupsilon_%7B%5Cpi%7D%5Cleft%28s%27%5Cright%29%3D%5Csum_%7Ba%27%5Cin+A%7D%7B%5Cpi%5Cleft%28a%27%7Cs%27%5Cright%29q_%7B%5Cpi%7D%5Cleft%28s%27%2Ca%27%5Cright%29%7D%5C%5C%5C%5C%5Cleft%281.10%5Cright%29+%5C%5D)
+
 将(1.10)带入到(1.8)中，得到行为状态-行为值函数：
 
 ![](https://www.zhihu.com/equation?tex=%5C%5B+q_%7B%5Cpi%7D%5Cleft%28s%2Ca%5Cright%29%3DR_%7Bs%7D%5E%7Ba%7D%2B%5Cgamma%5Csum_%7Bs%27%5Cin+S%7D%7BP_%7Bss%27%7D%5E%7Ba%7D%5Csum_%7Ba%27%5Cin+A%7D%7B%5Cpi%5Cleft%28a%27%7Cs%27%5Cright%29q_%7B%5Cpi%7D%5Cleft%28s%27%2Ca%27%5Cright%29%7D%7D%5C%5C%5C%5C%5Cleft%281.11%5Cright%29+%5C%5D)

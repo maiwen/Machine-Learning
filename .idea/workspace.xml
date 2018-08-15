@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/img/rl.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+            <state relative-caret-position="567">
+              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -411,8 +409,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/1. Basics/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        <state relative-caret-position="567">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
           <folding />
         </state>
       </provider>
