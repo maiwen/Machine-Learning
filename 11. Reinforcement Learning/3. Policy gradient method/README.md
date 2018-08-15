@@ -113,7 +113,7 @@ TRPO是英文单词Trust region policy optimization的简称，翻译成中文�
 ![](../img/trpo8.png)
 ![](../img/klsd.png)
 
-### 2.5 PPO
+### 2.5 PPO(Proximal Policy Optimization, 近端策略优化)
 PPO算法来源于TRPO算法,TRPO的标准解法是将目标函数进行一阶近似，约束条件利用泰勒进行二阶展开，然后利用共轭梯度的方法求解最优的更新参数。
 
 然而当策略选用深层神经网络表示时，TRPO的标准解法计算量会非常大。因为共轭梯度法需要将约束条件进行二阶展开，二阶矩阵的计算量非常大。
