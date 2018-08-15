@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/3. Policy gradient method/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/img/a3c_vs_a2c.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/11. Reinforcement Learning/2. Value function method/README.md" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/2. Value function method/README.md" />
+      <change beforePath="$PROJECT_DIR$/11. Reinforcement Learning/3. Policy gradient method/README.md" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/3. Policy gradient method/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +18,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/3. Policy gradient method/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+            <state relative-caret-position="606">
+              <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -157,11 +157,11 @@
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\RNN" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\img" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\3. Policy gradient method" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\2. Value function method" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\1. Basics" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\10. Deep Learning\Engineering Practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -445,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11. Reinforcement Learning/3. Policy gradient method/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        <state relative-caret-position="606">
+          <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
           <folding />
         </state>
       </provider>
