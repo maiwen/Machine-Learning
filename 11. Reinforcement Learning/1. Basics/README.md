@@ -1,4 +1,5 @@
 # 强化学习基础
+
 ![](../img/rl.png)
 
 智能体在完成某项任务时，首先通过动作A与周围环境进行交互，在动作A和环境的作用下，智能体会产生新的状态，同时环境会给出一个立即回报。
@@ -25,6 +26,7 @@
 ![](../img/ztzhs.png)
 
 ### 状态值函数
+
 当智能体采用策略π时，累积回报服从一个分布，累积回报在状态s处的期望值定义为状态值函数：
 
 ![](https://www.zhihu.com/equation?tex=%5Cupsilon_%7B%5Cpi%7D%5Cleft%28s%5Cright%29%3DE_%7B%5Cpi%7D%5Cleft%5B%5Csum_%7Bk%3D0%7D%5E%7B%5Cinfty%7D%7B%5Cgamma%5EkR_%7Bt%2Bk%2B1%7D%7CS_t%3Ds%7D%5Cright%5D)
@@ -34,10 +36,12 @@
 ![](https://www.zhihu.com/equation?tex=%5C%5B+q_%7B%5Cpi%7D%5Cleft%28s%2Ca%5Cright%29%3DE_%7B%5Cpi%7D%5Cleft%5B%5Csum_%7Bk%3D0%7D%5E%7B%5Cinfty%7D%7B%5Cgamma%5EkR_%7Bt%2Bk%2B1%7D%7CS_t%3Ds%2CA_t%3Da%7D%5Cright%5D+%5C%5D)
 
 ### 贝尔曼方程
+
 ![](../img/bellman.png)
 ![](../img/bellman2.png)
 
 ### 状态值函数和行为值函数的具体计算过程
+
 ![](https://www.zhihu.com/equation?tex=%5C%5B+%5Cupsilon_%7B%5Cpi%7D%5Cleft%28s%5Cright%29%3D%5Csum_%7Ba%5Cin+A%7D%7B%5Cpi%5Cleft%28a%7Cs%5Cright%29q_%7B%5Cpi%7D%5Cleft%28s%2Ca%5Cright%29%7D%5C%5C%5C%5C%5Cleft%281.7%5Cright%29+%5C%5D)
 ![](https://www.zhihu.com/equation?tex=%5C%5B+q_%7B%5Cpi%7D%5Cleft%28s%2Ca%5Cright%29%3DR_%7Bs%7D%5E%7Ba%7D%2B%5Cgamma%5Csum_%7Bs%27%7D%7BP_%7Bss%27%7D%5E%7Ba%7D%7D%5Cupsilon_%7B%5Cpi%7D%5Cleft%28s%27%5Cright%29%5C%5C%5C%5C%5Cleft%281.8%5Cright%29+%5C%5D)
 
@@ -54,7 +58,3 @@
 计算状态值函数的目的是为了构建学习算法从数据中得到最优策略。每个策略对应着一个状态值函数，最优策略自然对应着最优状态值函数。
 
 ![](../img/optpol.png)
-
-
-
-

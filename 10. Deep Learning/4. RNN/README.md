@@ -7,6 +7,7 @@
 ![](../img/rnn3.png)
 ![](../img/rnn4.png)
 ![](../img/rnn5.png)
+
 ![](../img/rnn6.png)
 ![](../img/rnn7.png)
 ![](../img/rnn8.png)

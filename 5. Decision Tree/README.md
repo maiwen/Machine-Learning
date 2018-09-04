@@ -97,7 +97,9 @@
 ![](../img/xxzyb.png)
 
 ## 决策树生成
-![](../img/jcssc.png)
+
+![](../img/id3.png)
+![](../img/c45.png)
 
 ## 决策树剪枝
 ![](../img/jcssshs.png)
