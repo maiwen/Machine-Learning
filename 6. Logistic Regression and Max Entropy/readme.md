@@ -15,3 +15,12 @@
 
 ## 多项逻辑回归
 ![](../img/mlr.png)
+
+# 最大熵模型
+
+![](../img/zds1.png)
+![](../img/zds2.png)
+![](../img/zds3.png)
+![](../img/zds4.png)
+![](../img/zds5.png)
+
