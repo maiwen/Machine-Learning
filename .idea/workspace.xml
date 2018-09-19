@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa73d6f-31b0-497c-8e6d-d8e279f4450b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/Application/Recommended system/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/Application/Recommended system/推荐系统基础.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11. Reinforcement Learning/Application/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/pr.png" />
       <change beforePath="$PROJECT_DIR$/1. Introductions/readme.md" afterPath="$PROJECT_DIR$/1. Introductions/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +17,8 @@
       <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1. Introductions/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="256" column="31" lean-forward="false" selection-start-line="256" selection-start-column="31" selection-end-line="256" selection-end-column="31" />
+            <state relative-caret-position="674">
+              <caret line="148" column="17" lean-forward="false" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -125,11 +122,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\img" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\3. Policy gradient method" />
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\2. Value function method" />
-      <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\11. Reinforcement Learning\1. Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vincent\Documents\GitHub\Machine-Learning\img" />
@@ -407,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1. Introductions/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="256" column="31" lean-forward="false" selection-start-line="256" selection-start-column="31" selection-end-line="256" selection-end-column="31" />
+        <state relative-caret-position="674">
+          <caret line="148" column="17" lean-forward="false" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
           <folding />
         </state>
       </provider>
